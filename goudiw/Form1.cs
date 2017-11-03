@@ -235,7 +235,7 @@ namespace goudiw
 
 
         /// <summary>
-        /// 商品规格处理
+        /// 商品规格属性处理
         /// </summary>
         /// <param name="attrlist">现有规格值</param>
         /// <param name="sm">新规格值</param>
@@ -293,5 +293,13 @@ namespace goudiw
             }
             return spec;
         }
+
+        public string Goods_Insert()
+        {
+
+
+            return "";
+        }
+
     }
 }
