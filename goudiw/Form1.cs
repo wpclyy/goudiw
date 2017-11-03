@@ -77,7 +77,7 @@ namespace goudiw
 
                 ListView.SelectedListViewItemCollection slic = listView1.SelectedItems;
 
-                //规格值sdsdssd
+                //规格值
                 //Dictionary<string, Dictionary<string, string>> spec = new Dictionary<string, Dictionary<string, string>>();
                 foreach (ListViewItem li in slic)
                 {
